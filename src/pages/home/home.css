@@ -1,0 +1,12 @@
+.homeContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.homeTopbar{
+    z-index: 3;
+}
+
+.homeRightbar{
+    z-index: -100;
+}
